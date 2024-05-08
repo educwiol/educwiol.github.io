@@ -5,7 +5,7 @@ const detailSidebarDesc = document.getElementById('detail-sidebar-desc');
 const detailSidebarGo = document.getElementById('detail-sidebar-go');
 
 detailSidebarGo.style.display = 'none';
-detailSidebarDesc.textContent = "adam did not make this >:("
+detailSidebarDesc.innerHTML = "adam did not make this >:(<br>- ant"
 function linkToName(link) {
     const cleanedLink = link.replace(/^(https?:\/\/)?(www\.)?/, ''); // Remove "http://" or "https://", and "www."
     const parts = cleanedLink.split('/');

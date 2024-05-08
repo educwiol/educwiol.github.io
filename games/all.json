@@ -1,27 +1,27 @@
 [
    {
       "name":"Subway Surfers",
-      "thumbnail":"https://assets-prd.ignimgs.com/2023/03/01/subwaysurfers-1677630205274.jpg",
+      "thumbnail":"images/games/subway.jpg",
       "slug":"subwaysurfers"
    },
    {
       "name":"Champion Island",
-      "thumbnail":"https://metro.co.uk/wp-content/uploads/2021/07/Google-doodle-olympics-2021-b866.jpg?quality=90&strip=all&zoom=1&resize=480%2C249",
+      "thumbnail":"images/games/champion.webp",
       "slug":"champion-island"
    },
    {
       "name":"Greybox",
-      "thumbnail":"https://teen.media/assets/greybox.jpeg",
+      "thumbnail":"images/games/greybox.jpeg",
       "slug":"greybox"
    },
    {
       "name":"Jetpack Joyride",
-      "thumbnail":"https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/d5d34cb9ce7b617b93338982aa0958ab.png",
+      "thumbnail":"images/games/jetpack.avif",
       "slug":"jetpack-joyride"
    },
    {
       "name":"Krunker",
-      "thumbnail":"https://krunkerio.io/data/image/options/krunkerio-icon.png",
+      "thumbnail":"images/games/krunker.png",
       "slug":"krunker"
    },
    {
@@ -31,12 +31,12 @@
    },
    {
       "name":"osu!",
-      "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png",
+      "thumbnail":"images/games/osu.webp",
       "slug":"osu!"
    },
    {
       "name":"Pandemic 2",
-      "thumbnail":"https://i.insider.com/5e6b874684159f7ceb2b7742?width=961&format=jpeg",
+      "thumbnail":"images/games/pandemic.webp",
       "slug":"pandemic2"
    },
    {
@@ -51,27 +51,27 @@
    },
    {
       "name":"Protektor",
-      "thumbnail":"https://img.itch.zone/aW1hZ2UvNjE3NTA1LzMzNjMyODkucG5n/original/2P1F0K.png",
+      "thumbnail":"images/games/protektor.png",
       "slug":"protektor"
    },
    {
       "name":"Rabbit Samurai 2",
-      "thumbnail":"https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/ded0cb84198d577dd714007ed2a0df5d.png",
+      "thumbnail":"images/games/rabbit.avif",
       "slug":"rabbit-samurai2"
    },
    {
       "name":"Rooftop Snipers",
-      "thumbnail":"https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/c127771edb0e821e4109b7058ae3f094.jpeg",
+      "thumbnail":"images/games/rooftop.avif",
       "slug":"rooftop-snipers"
    },
    {
       "name":"Scrap Metal",
-      "thumbnail":"https://data.gameflare.com/games/8854/mMDxh9ZbJfvS78-400-300.jpg",
+      "thumbnail":"images/games/scapmetal.webp",
       "slug":"scrapmetal"
    },
    {
       "name":"Terraria (Scratch)",
-      "thumbnail":"https://img.gamepix.com/games/scratcharia/icon/scratcharia.png",
+      "thumbnail":"images/games/terraria.png",
       "slug":"scratcharia"
    },
    {
@@ -86,142 +86,137 @@
    },
    {
       "name":"Station 141",
-      "thumbnail":"https://img.itch.zone/aW1nLzU4ODM5NjMucG5n/original/75wxYs.png",
+      "thumbnail":"images/games/station141.png",
       "slug":"station-141"
    },
    {
       "name":"Stick Archers",
-      "thumbnail":"https://kizicdn.com/system/static/thumbs/big_tile_thumb/69843/thumb300_STICK-ARCHERS-BATTLE-150x150.jpg?1643632668",
+      "thumbnail":"images/games/stickarchers.jpg",
       "slug":"stick-archers"
    },
    {
       "name":"Stick Duel Battle",
-      "thumbnail":"https://static.keygames.com/6/115586/101537/672x448/stick-duel-battle.webp",
+      "thumbnail":"images/games/stickduel.webp",
       "slug":"stick-duel-battle"
    },
    {
       "name":"Stickman Boost",
-      "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ47Tqmda8VEHmOEJQ3XWMMb9WBrxprzxf9gA&usqp=CAU",
-      "slug":"stickman-boost"
-   },
-   {
-      "name":"Stickman Boost",
-      "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ47Tqmda8VEHmOEJQ3XWMMb9WBrxprzxf9gA&usqp=CAU",
+      "thumbnail":"images/games/stickmanboost.jpg",
       "slug":"stickman-boost"
    },
    {
       "name":"Stickman Hook",
-      "thumbnail":"https://childrenandmedia.org.au/assets/images/stickmanhook.jpg",
+      "thumbnail":"images/games/stickmanhook.jpg",
       "slug":"stickman-hook"
    },
    {
       "name":"Tactical Weapon Pack 2",
-      "thumbnail":"https://gameforge.com/de-DE/littlegames/includes/images/games/164x164/9779_5eb3f0110a882.jpg",
+      "thumbnail":"images/games/weapon.jpg",
       "slug":"tactical-weapon-pack-2"
    },
    {
       "name":"Tactical Assassin 2",
-      "thumbnail":"https://imgs2.dab3games.com/sniper-assassin-2-game.png",
+      "thumbnail":"images/games/tactical.webp",
       "slug":"tacticalassasin2"
    },
    {
       "name":"There Is No Game",
-      "thumbnail":"https://construct-static.com/uploads/357/616fc51a-2c10-4ddf-9cf9-bf8b6af3184c/c/-895885962/mainimage.png",
+      "thumbnail":"images/games/nogame.webp",
       "slug":"there-is-no-game"
    },
    {
       "name":"Madalin Stunt Cars 2",
-      "thumbnail":"https://madalinstuntcars2.io/data/image/madalin-stunt-cars-21.jpg",
+      "thumbnail":"images/games/stuntcars2.jpg",
       "slug":"madalin-stunt-cars-2"
    },
    {
       "name":"Madalin Stunt Cars 3",
-      "thumbnail":"https://www.madalinstuntcars2.net/wp-content/uploads/2023/09/madalin-stunt-cars-3-unblocked-6969.jpg",
+      "thumbnail":"images/games/stuntcars3.jpg",
       "slug":"madalin-cars-3"
    },
    {
       "name":"Rocket League",
-      "thumbnail":"https://play-lh.googleusercontent.com/ZSLQpJsfi6GrsPoTpKh-IDkR_YcBdIG96pUi6KToYrHssFKkuV1lQQ5sLf08f5He3bE",
+      "thumbnail":"images/games/rocket.png",
       "slug":"rocket-soccer"
    },
    {
       "name":"Paper IO 2",
-      "thumbnail":"https://i0.wp.com/is3-ssl.mzstatic.com/image/thumb/Purple126/v4/28/01/98/28019865-eabe-c5c7-7302-99aeaa78e814/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg?w=1200&ssl=1",
+      "thumbnail":"images/games/paperio.webp",
       "slug":"paperio2"
    },
    {
       "name":"Tetris",
-      "thumbnail":"https://play-lh.googleusercontent.com/7Zn2QBzByBf4XyQPhuRVsOkSaKSYsty1ka-6_bh6Ub-2kQri6xqqRdK52qxEM69N6cw",
+      "thumbnail":"images/games/tetris.png",
       "slug":"tetris"
    },
    {
       "name":"Retro Bowl",
-      "thumbnail":"https://cdn.now.gg/apps-content/com.newstargames.retrobowl/banner/mobile/retro-bowl.jpg",
+      "thumbnail":"images/games/retrobowl.jpg",
       "slug":"retro-bowl"
    },
    {
       "name":"Run 3",
-      "thumbnail":"https://assets1.ignimgs.com/2018/06/18/run-3-0-button-1529363477468.jpg",
+      "thumbnail":"images/games/run3.jpg",
       "slug":"run3"
    },
    {
       "name":"Slither",
-      "thumbnail":"https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA",
+      "thumbnail":"images/games/slither.png",
       "slug":"slither"
    },
    {
       "name":"Spinning Rat",
-      "thumbnail":"https://media.tenor.com/B85QfhcxFKMAAAAd/rat-spinning.gif",
+      "thumbnail":"images/games/spinningrat.gif",
       "slug":"spinningrat"
    },
    {
       "name":"Poom",
-      "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3pX9YKzgMfr8_squQPNMCwL5h1jjVMi957t9pFxTlJzOBKWGNNGoSwfCBgvgALqsHH8&usqp=CAU",
+      "thumbnail":"images/games/poom.jpg",
       "slug":"poom"
    },
    {
       "name":"Stunt Cars",
-      "thumbnail":"https://tse1.mm.bing.net/th?q=unblocked%20games%20wtf%20madalin%20stunt%20cars%202",
+      "thumbnail":"images/games/stuntcars.jpg",
       "slug":"stuntcars"
    },
    {
       "name":"Google Snake",
-      "thumbnail":"https://play-lh.googleusercontent.com/LU72Y-ZB_yLGsIP9-qQVN5jx39k-Zk_YVRWGbZAkNU0mZak2aQHQhf8MM5Z1cE6q7XE",
+      "thumbnail":"images/games/snake.png",
       "slug":"google-snake"
    },
    {
       "name":"FNF",
-      "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FNF-Logo.png/640px-FNF-Logo.png",
+      "thumbnail":"images/games/fnf.png",
       "slug":"fnf"
    },
    {
       "name":"FNaF",
-      "thumbnail":"https://static.wikia.nocookie.net/triple-a-fazbear/images/8/8f/690x0w.png/revision/latest?cb=20191120060456",
+      "thumbnail":"images/games/fnaf.webp",
       "slug":"FNAF"
    },
    {
       "name":"FNaF 2",
-      "thumbnail":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b175eedd-035f-4636-a4b3-073fbf00f7d6/d88e672-c663e6d2-7c6f-4801-b23a-a97cbbbbcb41.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxNzVlZWRkLTAzNWYtNDYzNi1hNGIzLTA3M2ZiZjAwZjdkNlwvZDg4ZTY3Mi1jNjYzZTZkMi03YzZmLTQ4MDEtYjIzYS1hOTdjYmJiYmNiNDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rJA5cAtu40ax6VbLOnBPnB0LUonfEDIeSe5AN551mLY",
+      "thumbnail":"images/games/fnaf2.jpg",
       "slug":"FNAF2"
    },
    {
       "name":"FNaF 3",
-      "thumbnail":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3edf8726-1575-4a75-a5dc-7c1a8ead4f39/ddvugf3-7a779d1d-42ba-454c-930d-119d18566209.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlZGY4NzI2LTE1NzUtNGE3NS1hNWRjLTdjMWE4ZWFkNGYzOVwvZGR2dWdmMy03YTc3OWQxZC00MmJhLTQ1NGMtOTMwZC0xMTlkMTg1NjYyMDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pi62jaIIgVuv_aCpF4yE1faZ7detfAxQU4j5ZU6AyaY",
+      "thumbnail":"images/games/fnaf3.png",
       "slug":"FNAF3"
    },
    {
       "name":"Aquapark",
-      "thumbnail":"https://store-images.s-microsoft.com/image/apps.63925.14634069183662722.c171aa28-d69f-4e61-816b-bed08184b8ec.18c7544b-63c5-446f-b833-2ce5764c3668?mode=scale&q=90&h=200&w=200&background=%230078D7",
+      "thumbnail":"images/games/aquapark.png",
       "slug":"aquapark-slides"
    },
    {
       "name":"ADOFAI",
-      "thumbnail":"https://play-lh.googleusercontent.com/L8rCly8hMWuP95PbihDZlSV2u0oGrs0hl2lEXboO7XHX2XalJZ1rjgOsFYXnEDWbpQ",
+      "thumbnail":"images/games/adofai.png",
       "slug":"adofai"
    },
    {
       "name":"Basketbros",
-      "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGbtrdLQsQPpFuBjTW1sPFdYHX11EXjRu_l5Wkvuh2oQHNOfOI2DJu-o90iZwKzPV4Gk&usqp=CAU",
+      "thumbnail":"images/games/basketbros.jpg",
       "slug":"basketbros-io"
    },
    {
@@ -231,7 +226,7 @@
    },
    {
       "name":"Bloxorz",
-      "thumbnail":"https://www.coolmathgames.com/sites/default/files/styles/pwa_192x192/public/game_m_thumbnail/bloxorz-game-icon.png?itok=BM4xpuWX",
+      "thumbnail":"images/games/bloxorz.png",
       "slug":"bloxorz"
    },
    {
@@ -241,42 +236,42 @@
    },
    {
       "name":"FNaF 4",
-      "thumbnail":"https://static.wikia.nocookie.net/fivenightsatfreddys/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150724183458",
+      "thumbnail":"images/games/fnaf4.webp",
       "slug":"FNAF4"
    },
    {
       "name":"Crossy Road",
-      "thumbnail":"https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/76fc1b000203faf71b77a75b10022142.png",
+      "thumbnail":"images/games/crossyroad.avif",
       "slug":"crossy"
    },
    {
       "name":"Doom",
-      "thumbnail":"https://i1.sndcdn.com/artworks-000285578945-g3nm3d-t500x500.jpg",
+      "thumbnail":"images/games/doom.jpg",
       "slug":"doom"
    },
    {
       "name":"Drift Hunters",
-      "thumbnail":"https://play-lh.googleusercontent.com/smo8Ln-PRREDGq_QjA-Nws7ZNJQhvQfUB2oA8XV0GW12uq6hqdhvwXCB2rdl6zjekcow",
+      "thumbnail":"images/games/drifthunters.png",
       "slug":"drift-hunters"
    },
    {
       "name":"Duck Life",
-      "thumbnail":"https://static.wikia.nocookie.net/ducklife/images/5/54/Baby_Duck_%28DL_Flash%29.png/revision/latest?cb=20211010162859",
+      "thumbnail":"images/games/ducklife.webp",
       "slug":"ducklife"
    },
    {
       "name":"Duck Life 2",
-      "thumbnail":"https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f2431276-8a98-4214-9a88-d0ea91fe0af2.png",
+      "thumbnail":"images/games/ducklife2.avif",
       "slug":"ducklife2"
    },
    {
       "name":"Fortcraft",
-      "thumbnail":"https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/df4871ac-4eb8-11e8-b52b-02420a000b15/2385303132/fortcraft-screen-0%20(70).jpg",
+      "thumbnail":"images/games/fortcraft.webp",
       "slug":"fortcraft"
    },
    {
       "name":"1v1",
-      "thumbnail":"https://images.crazygames.com/games/1v1-lol/cover-1585728351086.png?auto=format%2Ccompress&q=45&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+      "thumbnail":"images/games/1v1.avif",
       "slug":"1v1"
    },
    {
@@ -286,7 +281,7 @@
    },
    {
       "name":"Effing Worms",
-      "thumbnail":"https://i.ytimg.com/vi/sZmnJsBgdrA/hqdefault.jpg",
+      "thumbnail":"images/games/worms.jpg",
       "slug":"effingworms"
    },
    {
