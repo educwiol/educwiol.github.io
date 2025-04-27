@@ -604,7 +604,9 @@
       "thumbnail":"/games/game/you-are-bezos/thumbnail.png",
       "slug":"you-are-bezos"
    },
+   {
       "name":"OvO",
       "thumbnail":"/games/game/OvO/tumbnail.png",
       "slug":"ovo"
+   }
 ]
